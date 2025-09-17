@@ -41,7 +41,7 @@ To be able to use this web app locally in a development environment you will nee
 
 ```cmd
 # Clone this repository
-git clone https://github.com/garg-priya-creator/Netflix-Recommendation-System.git
+git clone https://github.com/sanhith30/Netflix-Recommendation-System.git
 
 # Go into the repository
 cd netflix-recommendation-system
